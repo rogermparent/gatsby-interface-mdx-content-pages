@@ -1,0 +1,12 @@
+{
+  "name": "gatsby-interface-mdx-content-pages",
+  "version": "1.0.0",
+  "description": "An Gatsby interface plugin that provides a common interface for MDX-based content pages.",
+  "main": "index.js",
+  "author": "rmp <rogermparent@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby-interface-content-pages": "^1.0.0",
+    "gatsby-plugin-parent-resolvers": "^1.0.0"
+  }
+}
